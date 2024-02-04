@@ -105,6 +105,10 @@ The result of the analysis have been shown in five sheets:
 4. Quarter-to-Date (QTD) Sales Analysis
 5. Year-to-Date (YTD) Sales Analysis
 
+### Highlight Features
+1. Product wise Drill Down
+2. Sales Channel wise Drill Down
+3. Product Price adjustments with live changes in Gross margin & Revenue per Transaction
 
 ## References:
 
