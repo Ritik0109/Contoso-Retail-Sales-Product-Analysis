@@ -1,5 +1,6 @@
 # Contoso Retail Sales & Product Analysis
-![Screenshot (77) (1)](https://github.com/Ritik0109/ContosoRetail/assets/84517614/459fdfbd-513c-4c02-ab27-e0954994c804)
+![Screenshot (77)](https://github.com/Ritik0109/ContosoRetail/assets/84517614/12412579-40b2-4356-a363-5be8bf5fe1d3)
+
 
 
 
