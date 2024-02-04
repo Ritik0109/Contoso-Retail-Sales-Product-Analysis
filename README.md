@@ -1,3 +1,9 @@
+# Contoso Retail Sales & Product Analysis
+![Screenshot (77) (1)](https://github.com/Ritik0109/ContosoRetail/assets/84517614/459fdfbd-513c-4c02-ab27-e0954994c804)
+
+
+
+
 ## Objective:
 
 The main objective of this project was to implement an end-to-end Data Visualization project with a huge dataset and working on its optimization to ensure smooth user experience.
