@@ -100,14 +100,14 @@ Later the model was passed through Power Query for further transformations where
 
 The result of the analysis have been shown in five sheets:
 1. Overall Sales Overview
-2. Product Analysis with Drill Down
-3. Sales Channel Analysis with Drill Down
+2. Product Analysis
+3. Sales Channel Analysis
 4. Quarter-to-Date (QTD) Sales Analysis
 5. Year-to-Date (YTD) Sales Analysis
 
 ### Highlight Features
-1. Product wise Drill Down
-2. Sales Channel wise Drill Down
+1. Product wise Drill Down: Option to drill down through revenue for a particular product resulting in a very detailed analysis
+2. Sales Channel wise Drill Down: Option to drill down through revenue for a particular sales channel resulting in a very detailed analysis
 3. Product Price adjustments with live changes in Gross margin & Revenue per Transaction
 
 ## References:
